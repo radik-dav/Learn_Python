@@ -1,0 +1,5 @@
+OS info is 
+uname_result(system='Darwin', node='Mac-mini-Radik.local', release='17.7.0', version='Darwin Kernel Version 17.7.0: Thu Jun 21 22:53:14 PDT 2018; root:xnu-4570.71.2~1/RELEASE_X86_64', machine='x86_64', processor='i386')
+
+Python version is 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] ('64bit', '')
